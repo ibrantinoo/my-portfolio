@@ -18,7 +18,7 @@ I'm a Software Developer with expertise in Frontend using React JS.
 - [Project 3]: Description of the project and your role.
 
 ## GitHub Stats
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/your-username)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrantinoo&show_icons=true)](https://github.com/ibrantinoo)
 
 ## Connect with Me
 - LinkedIn: [Your LinkedIn Profile URL]
